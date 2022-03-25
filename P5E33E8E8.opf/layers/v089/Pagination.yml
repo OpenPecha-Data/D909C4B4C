@@ -4655,13 +4655,13 @@ annotations:
     reference: ''
     span:
       start: 886951
-      end: 888304
+      end: 888307
     note_ref: 15cb1328a082446eb416bd3297df4c55
   d2d2d5ad1ae34a428a8050969bd8a14f:
     imgnum: 1452
     reference: ''
     span:
-      start: 888306
+      start: 888309
       end: 889679
     note_ref: 15cb1328a082446eb416bd3297df4c55
   e75ff144ad6a4b91b554940cfd4e3d07:
@@ -5142,13 +5142,13 @@ annotations:
     reference: ''
     span:
       start: 1027837
-      end: 1029786
+      end: 1029784
   db95c567acd443aea69a9ab3c1bf4ae6:
     imgnum: 1530
     reference: ''
     span:
-      start: 1029788
-      end: 1031534
+      start: 1029786
+      end: 1031532
 local_ids:
   b5bdb58a495c494d8f9eef0dc071f7fb: 200000
   58b03ba9ee6d4d6caa5199641f632d99: 200001
